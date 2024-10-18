@@ -5,7 +5,8 @@ Para este proyecto debí imprimir la estructura entera en 3D, programar en ardui
 
 
 
-![F05A396E-7693-40A4-96B8-0222063A7AB7_1_201_a](https://github.com/user-attachments/assets/c9e9e663-65c0-47a1-9966-389b08190d08 | width= 200)
+![F05A396E-7693-40A4-96B8-0222063A7AB7_1_201_a](https://github.com/user-attachments/assets/c9e9e663-65c0-47a1-9966-389b08190d08)
+<img source = "https://github.com/user-attachments/assets/c9e9e663-65c0-47a1-9966-389b08190d08" width = "200" height = "200" >
 
 
 
