@@ -1,7 +1,8 @@
 # roboticArm1_unab
 Brazo robótico creado en el ramo de Electrónica Análoga y Digital
 
-Para este proyecto debí imprimir la estructura entera en 3D, programar en arduino, crear la comunicación con python y crear la GUI en Tkinter. Utilice un arduino Uno R3, una placa de prototipado y una fuente de alimentación externa para alimentar los servo motores. Tanto la base, como el hombro y codo usan servos MG995 y la muñeca, mano y garra usan servos SG90. En un principio la idea era hacer la comunicación con 
+Para este proyecto debí imprimir la estructura entera en 3D, programar en arduino, crear la comunicación con python y crear la GUI en Tkinter. Utilice un arduino Uno R3, una placa de prototipado y una fuente de alimentación externa para alimentar los servo motores. Tanto la base, como el hombro y codo usan servos MG995 y la muñeca, mano y garra usan servos SG90. 
+En un principio la idea era usar un modulo bluetooth para la comunicación pero por alguna razon que desconozco, el modulo no funciono y por temas de tiempo de entrega decidí crear la comunicación directa por usb.
 
 
 
