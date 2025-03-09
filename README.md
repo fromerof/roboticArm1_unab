@@ -15,3 +15,9 @@ En un principio la idea era usar un modulo bluetooth HC05 para la comunicación 
 
 ![2D1DADF4-5D62-461E-8ED5-7B95114E08B9_1_105_c](https://github.com/user-attachments/assets/156a5b1d-9c1a-4db8-8c2c-fd0913ef49ff)
 
+## Forward Kinematics (FK)
+
+
+
+## Inverse Kinematics (IK)
+
